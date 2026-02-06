@@ -51,13 +51,13 @@ Más allá del código, mi valor agregado está en la **gestión del proyecto y 
 
 Aunque el código fuente de mis trabajos con clientes es privado por confidencialidad, aquí detallo el impacto de mi trabajo y los resultados en producción:
 
-#### ♻️ Modernización y Gestión (Refactoring & Management)
+#### 💎 Reingeniería y Renovación Integral (Full Rebuilds)
 * **🤝 Fundación ETHE** - [Ver Sitio Oficial](https://fundacionethe.org/)
-    * *Migración y modernización de interfaz: Reemplazo de diseño antiguo en WordPress por una solución actual enfocada en la experiencia móvil (Mobile First).*
-    * *Implementación de Google Analytics para monitoreo de tráfico.*
+    * *Desarrollo integral desde cero: Diseñé y programé una nueva plataforma web a medida para sustituir completamente el antiguo sitio en WordPress.*
+    * *Propuesta UI/UX propia: Creación de una nueva identidad visual y arquitectura de información centrada en Mobile First, mejorando drásticamente la navegación respecto a la versión anterior.*
 * **🏢 AAFE** - [Ver Sitio Institucional](https://aafe-argentina.org/)
-    * *Gestión Web Continua: Mantenimiento activo del sitio y carga de contenido dinámico (Congresos, PDFs, Prensa).*
-    * *Solución de problemas visuales heredados para asegurar la correcta visualización de la información institucional.*
+    * *Renovación completa del sitio: Desarrollo de una nueva web desde cero para reemplazar la versión anterior y solucionar definitivamente los errores visuales y de estructura que tenía la página.*
+    * *Gestión Web Continua: Mantenimiento activo de la nueva infraestructura y gestión integral de contenidos dinámicos (Congresos, Prensa).*
 
 #### 🏗️ Desarrollo desde Cero (Greenfield Projects)
 * **🏥 Web Dr. Guillermo Martini** - [Ver Aplicación Web](https://dr-guillemartini-webdeploy.vercel.app/)
