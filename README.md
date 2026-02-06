@@ -70,8 +70,6 @@ Aunque el código fuente de mis trabajos con clientes es privado por confidencia
 
 ### 📫 Contacto
 
-Estoy abierto a oportunidades laborales (Full-time, Part-time o Freelance).
-
-* **LinkedIn:** [Mi Perfil Profesional](LINK_A_LINKEDIN)
-* **Instagram:** [@tu_usuario](LINK_A_INSTAGRAM)
-* **Email:** [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com)
+* **LinkedIn:** [Matías Giménez](https://www.linkedin.com/in/mat%C3%ADas-gim%C3%A9nez-2448a7243/)
+* **Instagram:** [@matigm_04](https://www.instagram.com/matigm_04/)
+* **Email:** [matigm04@gmail.com](mailto:matigm04@gmail.com)
