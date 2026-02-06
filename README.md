@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Matías </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 🎓 Estudiante de Ingeniería en Sistemas (4º Año) | Desarrollador Web
+### 🎓 Estudiante de Ingeniería en Sistemas | Desarrollador Web
 
 Soy un desarrollador de **Córdoba, Argentina**, enfocado en transformar necesidades de negocio en soluciones digitales. Actualmente estoy profundizando mis conocimientos en **Backend** y arquitectura de software, con el objetivo de sumarme a un equipo de desarrollo profesional (Pasantía/Junior) donde pueda aportar valor y seguir creciendo.
 
