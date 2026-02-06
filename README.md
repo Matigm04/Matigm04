@@ -49,22 +49,24 @@ Más allá del código, mi valor agregado está en la **gestión del proyecto y 
 
 ### 🚀 Experiencia Destacada
 
-Aunque el código fuente de mis trabajos con clientes es privado por confidencialidad, aquí detallo el impacto de mi trabajo:
-
-#### 🏗️ Desarrollo desde Cero (Greenfield Projects)
-* **🏥 Web Dr. Guillermo Martini** - [Ver Sitio](LINK_AL_SITIO)
-    * *Levantamiento de requerimientos y construcción total de la identidad digital del profesional.*
-* **🎤 TedxUTNCórdoba**
-    * *Desarrollo colaborativo para evento institucional.*
+Aunque el código fuente de mis trabajos con clientes es privado por confidencialidad, aquí detallo el impacto de mi trabajo y los resultados en producción:
 
 #### ♻️ Modernización y Gestión (Refactoring & Management)
-* **🤝 Fundación ETHE** - [Ver Sitio](LINK_AL_SITIO)
-    * *Migración y modernización de interfaz: Reemplazo de diseño antiguo en WordPress por una solución actual enfocada en la experiencia móvil (Mobile First) y corrección de errores de usabilidad (UX).*
-* **🏢 AAFE**
-    * *Gestión Web Continua: Mantenimiento activo del sitio y carga de contenido dinámico.*
+* **🤝 Fundación ETHE** - [Ver Sitio Oficial](https://fundacionethe.org/)
+    * *Migración y modernización de interfaz: Reemplazo de diseño antiguo en WordPress por una solución actual enfocada en la experiencia móvil (Mobile First).*
+    * *Implementación de Google Analytics para monitoreo de tráfico.*
+* **🏢 AAFE** - [Ver Sitio Institucional](https://aafe-argentina.org/)
+    * *Gestión Web Continua: Mantenimiento activo del sitio y carga de contenido dinámico (Congresos, PDFs, Prensa).*
+    * *Solución de problemas visuales heredados para asegurar la correcta visualización de la información institucional.*
+
+#### 🏗️ Desarrollo desde Cero (Greenfield Projects)
+* **🏥 Web Dr. Guillermo Martini** - [Ver Aplicación Web](https://dr-guillemartini-webdeploy.vercel.app/)
+    * *Levantamiento de requerimientos y construcción total de la identidad digital del profesional.*
+* **🎤 TEDx UTN Córdoba** - [Ver Sitio del Evento](https://tedxutncordoba.com.ar/)
+    * *Desarrollo web colaborativo para la organización del evento local, asegurando alto rendimiento y accesibilidad.*
 
 #### ⚡ Automatizaciones e Integraciones
-* **Sistema de Contacto Serverless:** Desarrollo de lógica con **Google Apps Script** para conectar formularios web con **Google Sheets** (como base de datos), incluyendo disparadores de correos electrónicos automáticos personalizados para cada consulta.
+* **Sistema de Contacto Serverless:** Desarrollo de lógica con **Google Apps Script** para conectar formularios web con **Google Sheets** (como base de datos), incluyendo disparadores de correos electrónicos automáticos personalizados.
 
 ---
 
